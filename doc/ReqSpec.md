@@ -10,6 +10,7 @@ Olyan rendszert szeretnénk amely minden lényeges adatot tárol az ügyfelekrõl.
 4. Igényelt üzleti folyamatok modellje
 
 5. Szabályok, szabbványok
+A GDPR megfelelõssége érdekében szükséges adatkezelési tájékoztató valamint engedélykérés a felhasználótól.
 
 6. Követelménylista
 
