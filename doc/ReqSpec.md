@@ -1,7 +1,7 @@
 Követelményspecifikáció
 
 1. Jelenlegi helyzet
-
+Jelenleg mindent papíron kezelünk és ez hátrányt jelent a versenytársakkal szemben ahol már informatikai rendszerben kezeljük az ügyfeleket.
 2. vágyálom rendszer
 
 3.Jelenlegi üzleti folyamatok modellje
